@@ -1,0 +1,31 @@
+{
+  "books": [
+    {
+      "name": "The Last Thing He Told Me: A Novel",
+      "author": "Laura Dave",
+      "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
+      "price": 13.99,
+      "rating": 4,
+      "featured": false,
+      "id": 2
+    },
+    {
+      "name": "Verity",
+      "author": "Colleen Hoover",
+      "thumbnail": "https://m.media-amazon.com/images/I/41ZLnc34EiL._SX332_BO1,204,203,200_.jpg",
+      "price": 10.98,
+      "rating": 4,
+      "featured": false,
+      "id": 5
+    },
+    {
+      "name": "Ugly Love: A Novel",
+      "author": "Colleen Hoover",
+      "thumbnail": "https://m.media-amazon.com/images/I/41mBCtaJ1XL._SX320_BO1,204,203,200_.jpg",
+      "price": 9,
+      "rating": 4,
+      "featured": true,
+      "id": 6
+    }
+  ]
+}
